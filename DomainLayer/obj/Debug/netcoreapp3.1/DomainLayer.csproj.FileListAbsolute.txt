@@ -1,0 +1,12 @@
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.deps.json
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.runtimeconfig.json
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.runtimeconfig.dev.json
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csproj.AssemblyReference.cache
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfoInputs.cache
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfo.cs
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.dll
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.pdb
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\ServiceLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\ServiceLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\ServiceLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\ServiceLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.AssemblyReference.cache
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+D:\Studying\REST_API.NetCore3\ShoppingCataloge\ShoppingCatalog\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
